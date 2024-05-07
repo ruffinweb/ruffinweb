@@ -8,7 +8,7 @@ I am a passionate Full Stack Developer, driven by a curiosity for technology and
 
 ## 🚀 About Me
 
-- 🔭 I'm currently ?.
+- 🔭 I'm currently exploring AWS services to power my web applications.
 - 📝 Writing Accomplishment 1.
 - 🌐 Community Accomplishment 1..
 - ✍️ Misc Accomplishment 1.
