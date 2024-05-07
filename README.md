@@ -19,7 +19,7 @@ I am a passionate Full Stack Developer, driven by a curiosity for technology and
 - [ruffinweb.com](https://ruffinweb.com/blog)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,py,django,flask,postgres,sqlite,docker,nginx,powershell,aws,cloudflare,debian,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,py,django,flask,postgres,sqlite,docker,nginx,aws,debian)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
