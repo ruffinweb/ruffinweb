@@ -33,7 +33,7 @@ I am a passionate Full Stack Developer, driven by a curiosity for technology and
 
 - 🌟 Achievement 1
 - 🌟 Achievement 2
-
+- 🌟 Achievement 3
 ## Devlopment Plans 
 
 - 👯 I’m looking to collaborate on ...
