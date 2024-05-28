@@ -39,6 +39,7 @@ I am a passionate Full Stack Developer, driven by a curiosity for technology and
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 😱
 
 ## 📬 Get in Touch
 
