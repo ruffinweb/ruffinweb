@@ -47,4 +47,3 @@ I am a passionate Full Stack Developer, driven by a curiosity for technology and
 - Read more of my articles on [ruffinweb.com](https://ruffinweb.com/blog)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
