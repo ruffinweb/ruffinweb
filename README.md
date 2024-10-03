@@ -23,11 +23,7 @@ I am a passionate Full Stack Developer, driven by a curiosity for technology and
 ## 🌱 Currently Exploring
 
   - OuiParle a language learning and social mobilty app.
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Material UI to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Global mythology reading app.
 
  ## 🏆 Achievements
 
