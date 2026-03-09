@@ -2,9 +2,6 @@
 
 I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![ruffinweb's Stats](https://github-readme-stats.vercel.app/api?username=ruffinweb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![ruffinweb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruffinweb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently exploring AWS services to power my web applications.
